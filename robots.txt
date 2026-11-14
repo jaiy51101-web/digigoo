@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /user/
+Disallow: /cart/
+Disallow: /checkout/
+
+Sitemap: https://digiws.com/sitemap.xml

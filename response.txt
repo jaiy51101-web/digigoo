@@ -1,0 +1,1 @@
+{"success":true,"message":"Product added to cart!","cart_count":1}
