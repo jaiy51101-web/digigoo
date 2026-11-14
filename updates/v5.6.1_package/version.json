@@ -1,0 +1,7 @@
+{
+    "product_id": "PRD-ISV5JQOF7S",
+    "version": "5.6.1",
+    "release_date": "2026-07-30",
+    "release_notes": "v5.6.1 Update: Enhanced remote license security, automated backup engine, performance optimizations & database sync.",
+    "min_required_version": "5.6"
+}
